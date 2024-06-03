@@ -1,0 +1,64 @@
+p
+{
+    font-size: 23px;
+    text-align: center;
+}
+h2
+{
+    font-size: 33px;
+    font-weight: bold;
+    text-align: center;
+}
+#navbar
+{
+    border: 1px solid rgb(0, 0, 0);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+#navbar li
+{
+    font-size: 30px;
+    display: inline;
+    padding: 50px;
+}
+a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+}
+footer
+{
+    background-color: black;
+}
+#pfooter
+{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+#imgbordo
+{
+    border: 5px solid black;
+}
+h1
+{
+    text-align: center;
+    font-size: 60px;
+}
+#pstoria
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    font-size: 27px;
+}
+hr
+{
+    border-color: orange;
+}
+#copyright
+{
+    color: white;
+}
